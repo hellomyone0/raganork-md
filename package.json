@@ -1,7 +1,7 @@
 {
-  "name": "raganork",
+  "name": "𝐂𝐫𝐢𝐜𝐤𝐞𝐭 𝐙𝐨𝐨𝐌📲 𝐇𝐃",
   "version": "2.0.1",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "description": "𝐂𝐫𝐢𝐜𝐤𝐞𝐭 𝐙𝐨𝐨𝐌📲 𝐇𝐃 whatsapp bot- Multi device version.",
   "main": "./Raganork/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
